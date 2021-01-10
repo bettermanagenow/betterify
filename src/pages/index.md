@@ -58,7 +58,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: Focussed Areas
     subtitle: This is where our experties lies ...
     features:
       - title: The Big Title For the Feature
