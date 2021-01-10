@@ -5,8 +5,11 @@ sections:
     title: Better Manage Now
     subtitle: 'It''s either now or never!! So, Let''s do it now!!'
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      We help you in Better Management of your Finances, Accounts, Investments,
+      and Taxes (FAIT). We can transform everything to it's next level very
+      easily. They say there is a solution in the problem itself. We have the
+      expertise to diagnose the problems to find amicable solutions. Let's
+      Betterify!!
     actions:
       - label: Try Free
         url: /pricing
