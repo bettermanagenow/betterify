@@ -61,7 +61,7 @@ sections:
     title: Focussed Areas
     subtitle: This is where our experties lies ...
     features:
-      - title: The Big Title For the Feature
+      - title: In the wonderworld of Finances
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
