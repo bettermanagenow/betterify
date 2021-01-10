@@ -64,9 +64,9 @@ sections:
       - title: In the wonderworld of Finances
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We help you in **Better Management** of your Finances. We help you in
+          your Capital Structure, Capital Budgeting, and Working Capital
+          Management.
         actions:
           - label: Learn More
             url: /style-guide
