@@ -83,9 +83,8 @@ sections:
         media_width: fifty
       - title: The Future of Investments
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We help you in **Better Management** of your Investments. The whole
+          objective is to optimize the portfolio for higher and bigger returns.
         actions:
           - label: Learn More
             url: /style-guide
