@@ -71,9 +71,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: The Future of Investments
-        content: >-
-          We help you in **Better Management** of your Investments. The whole
-          objective is to optimize the portfolio for higher and bigger returns.
+        content: "We help you in **Better Management** of your Investments. The whole objective is to optimize the portfolio for higher and bigger returns \U0001F4B0"
         actions:
           - label: Learn More
             url: /style-guide
