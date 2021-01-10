@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Better Manage Now
-    subtitle: It's either now or never!!
+    subtitle: 'It''s either now or never!! So, Let''s do it now!!'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
