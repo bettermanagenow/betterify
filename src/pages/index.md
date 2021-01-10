@@ -58,7 +58,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Focussed Areas
+    title: Where do we really focus?
     subtitle: This is where our experties lies ...
     features:
       - title: In the wonderworld of Finance
