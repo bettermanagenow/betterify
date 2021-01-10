@@ -64,8 +64,8 @@ sections:
       - title: In the wonderworld of Finance
         subtitle: >-
           Is compounding 8th Wonder of the World? The greatest genius on earth
-          **Alber Einstein** says that Compound Interest is the 8th wonder of
-          the world.
+          Alber Einstein says that Compound Interest is the 8th wonder of the
+          world.
         content: >-
           We help you in **Better Management** of your Finances. We help you in
           your Capital Structure, Capital Budgeting, and Working Capital
