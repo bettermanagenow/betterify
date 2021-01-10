@@ -61,7 +61,7 @@ sections:
     title: Focussed Areas
     subtitle: This is where our experties lies ...
     features:
-      - title: In the wonderworld of Finances
+      - title: In the wonderworld of Finance
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           We help you in **Better Management** of your Finances. We help you in
