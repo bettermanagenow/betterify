@@ -96,9 +96,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: >-
-          "An investment in knowledge pays the best interest." - Benjamin
-          Franklin
+        subtitle: "\"An investment in knowledge pays the best interest.\" - Benjamin Franklin\_\U0001F495"
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
