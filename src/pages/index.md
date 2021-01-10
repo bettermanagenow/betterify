@@ -5,10 +5,10 @@ sections:
     title: Better Manage Now
     subtitle: 'It''s either now or never!! So, Let''s do it now!!'
     content: >-
-      We help you in Better Management of your Finances, Accounts, Investments,
-      and Taxes (FAIT). We can transform everything to it's next level very
-      easily. They say there is a solution in the problem itself. We have the
-      expertise to diagnose the problems to find amicable solutions. Let's
+      We help you in **Better Management** of your Finances, Accounts,
+      Investments, and Taxes (FAIT). We can help transform everything to the
+      next level. They say the solution is hidden in the problem itself. We have
+      the expertise to diagnose the problems to find amicable solutions. Let's
       Betterify!!
     actions:
       - label: Try Free
