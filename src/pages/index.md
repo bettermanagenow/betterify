@@ -62,7 +62,9 @@ sections:
     subtitle: This is where our experties lies ...
     features:
       - title: In the wonderworld of Finance
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Is Compounding 8th Wonder of the World? The greatest genius on earth
+          Alber Einstein says that
         content: >-
           We help you in **Better Management** of your Finances. We help you in
           your Capital Structure, Capital Budgeting, and Working Capital
