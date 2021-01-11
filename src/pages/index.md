@@ -48,7 +48,7 @@ sections:
         image_alt: Netlify logo
         image_align: left
         title: ACCOUNTS
-        subtitle: "Bookkeeping and Accounting\_\U0001F3F3️‍\U0001F308"
+        subtitle: "Bookkeeping and Accounting\_\U0001F31F"
         content: "We have cost-effective accounting solutions and services to take care of your **Bookkeeping** and **Accounting** needs. We offer online Accounting Solutions and Services \U0001F600"
         actions:
           - label: Learn More
