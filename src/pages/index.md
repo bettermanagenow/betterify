@@ -41,7 +41,7 @@ sections:
             type: action
         title: Finance
         subtitle: Catering to Financing Needs
-        image_has_padding: true
+        image_has_padding: false
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
