@@ -44,7 +44,7 @@ sections:
         image_has_padding: false
         content_align: left
         image_position: top
-      - image: images/undraw_Segmentation_re_gduq.png
+      - image: images/undraw_revenue_3osh.png
         image_alt: Netlify logo
         image_align: left
         title: ACCOUNTS
