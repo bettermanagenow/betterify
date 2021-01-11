@@ -13,7 +13,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     actions:
-      - label: C
+      - label: Contact
         url: Contact
         style: primary
         has_icon: true
