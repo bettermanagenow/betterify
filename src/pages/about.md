@@ -32,6 +32,16 @@ sections:
       be one-fit-for-all solution or strategy. Every problem is very unique to
       that organization and understanding that problem from the very ground-up
       is a good beginning for finding a better and sustainable solution.
+
+
+      It is said that the solution exists in the problem itself. Can we really
+      defy the Peter Principle? Our whole endeavor is to find a solution to this
+      Paradox.
+
+
+      > There is nothing called the best. The better exists before the best. The
+      only thing is being better and better. And it is always better to be the
+      best !!
   - type: features_section
     features:
       - title: Section Title One
