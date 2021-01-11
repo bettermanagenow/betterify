@@ -78,7 +78,7 @@ sections:
             no_follow: false
             type: action
         image_position: top
-      - image: images/logo-4.svg
+      - image: images/undraw_Data_re_80ws.png
         image_alt: Sanity logo
         image_align: left
         image_position: top
