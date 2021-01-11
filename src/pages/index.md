@@ -107,7 +107,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
-    has_border: true
+    has_border: false
   - type: features_section
     title: Where do we really focus?
     subtitle: This is where our experties lies ...
