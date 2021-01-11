@@ -46,6 +46,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
         title: ACCOUNTS
+        subtitle: 'Accounting '
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
