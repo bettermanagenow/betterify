@@ -48,7 +48,7 @@ sections:
         image_alt: Netlify logo
         image_align: left
         title: ACCOUNTS
-        subtitle: 'Accounting '
+        subtitle: Bookkeeping and Accounting
         content: This is content
         actions:
           - label: Learn More
