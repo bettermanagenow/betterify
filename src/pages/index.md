@@ -39,7 +39,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        title: Finance
+        title: FINANCE
         subtitle: Catering to Financing Needs
         image_has_padding: false
       - image: images/logo-2.svg
