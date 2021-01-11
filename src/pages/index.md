@@ -83,7 +83,7 @@ sections:
         image_align: left
         image_position: top
         title: TAXES
-        subtitle: Direct and Indirect Taxes
+        subtitle: "Direct and Indirect Taxes\_\U0001F3C1"
         content: This is content.
         actions:
           - label: Learn More
