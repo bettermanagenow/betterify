@@ -65,7 +65,7 @@ sections:
         image_alt: Gatsby logo
         image_align: left
         title: INVESTMENTS
-        subtitle: "Investment and Porfolio\_\U0001F38C"
+        subtitle: "Investment and Porfolio\_✨"
         content: "We help you in **Better Management** of your Investments. The whole objective is to optimize the portfolio for higher and bigger returns \U0001F600"
         actions:
           - label: Learn More
