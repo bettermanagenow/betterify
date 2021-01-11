@@ -6,6 +6,7 @@ sections:
     subtitle: About Page Demo
     align: center
     background_color: secondary
+    image: images/undraw_finance_0bdk.png
   - type: features_section
     features:
       - title: Section Title One
