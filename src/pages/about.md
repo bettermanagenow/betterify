@@ -8,9 +8,15 @@ sections:
     background_color: secondary
     image: images/undraw_finance_0bdk.png
     content: >-
+      ###### Who are We?
+
+
       We all at Better Manage Now very strongly believe that all business
       productivity and performance is the result of a strong motivated team of
       professionals with hands on industry expertise and experience.
+
+
+      ###### Our Team
 
 
       We are a team of professionals with huge industry experience and
@@ -20,6 +26,9 @@ sections:
       philosophy that your success is our success and your failure is our
       failure. The very proof of our survival and sustenance is your better
       productivity and better performance.
+
+
+      ###### Our Services
 
 
       Our services are tailor made, customized and designed to suit individual
@@ -34,14 +43,17 @@ sections:
       is a good beginning for finding a better and sustainable solution.
 
 
+      ###### Our Philosophy
+
+
       It is said that the solution exists in the problem itself. Can we really
       defy the Peter Principle? Our whole endeavor is to find a solution to this
       Paradox.
 
 
-      > There is nothing called the best. The better exists before the best. The
-      only thing is being better and better. And it is always better to be the
-      best !!
+      > **There is nothing called the best. The better exists before the best.
+      The only thing is being better and better. And it is always better to be
+      the best !!**
   - type: features_section
     features:
       - title: Section Title One
