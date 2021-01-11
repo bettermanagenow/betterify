@@ -108,7 +108,7 @@ sections:
     grid_gap_vert: large
     enable_cards: false
     has_border: false
-    background_color: none
+    background_color: primary
   - type: features_section
     title: Where do we really focus?
     subtitle: This is where our experties lies ...
