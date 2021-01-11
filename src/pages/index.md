@@ -44,7 +44,7 @@ sections:
         image_has_padding: false
         content_align: left
         image_position: top
-      - image: images/logo-2.svg
+      - image: images/classic/post-4.png
         image_alt: Netlify logo
         image_align: left
         title: ACCOUNTS
