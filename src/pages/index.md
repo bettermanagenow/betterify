@@ -107,7 +107,7 @@ sections:
           “There is nothing called the best. The better exists before the best.
           The only thing is being better and better. We can defy the Peter
           Principle only when we take charge of things. ”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: We @ BetterManageNow.Com add value by finding solutions
         image: images/Avadhoot circle-cropped.png
         image_alt: Brandon Guidelines
         media_position: right
