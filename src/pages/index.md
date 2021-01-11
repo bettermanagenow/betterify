@@ -28,7 +28,7 @@ sections:
       - image: images/undraw_finance_0bdk.png
         image_alt: Contentful logo
         image_align: left
-        content: This is content
+        content: "We help you in **Better Management** of your Finances. We help you in your Capital Structure, Capital Budgeting, and Working Capital Management \U0001F600"
         actions:
           - label: Learn More
             url: Learn More
