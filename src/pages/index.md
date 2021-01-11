@@ -40,7 +40,7 @@ sections:
             no_follow: false
             type: action
         title: FINANCE
-        subtitle: Banking and Finance
+        subtitle: "Banking and Finance\_\U0001F6A9"
         image_has_padding: false
         content_align: left
         image_position: top
