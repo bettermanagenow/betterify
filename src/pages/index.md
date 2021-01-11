@@ -30,7 +30,7 @@ sections:
         image_align: left
         content: This is content
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: Learn More
             style: secondary
             has_icon: true
