@@ -63,7 +63,7 @@ sections:
         image_position: top
       - image: images/logo-3.svg
         image_alt: Gatsby logo
-        image_align: center
+        image_align: left
         title: INVESTMENTS
         subtitle: Investment Needs
         content: This is content
