@@ -66,7 +66,9 @@ sections:
         image_align: left
         title: INVESTMENTS
         subtitle: "Investment and Porfolio\_\U0001F38C"
-        content: This is content
+        content: >-
+          We help you in **Better Management** of your Investments. The whole
+          objective is to optimize the portfolio for higher and bigger returns.
         actions:
           - label: Learn More
             url: lorem-ipsum
