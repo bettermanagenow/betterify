@@ -21,37 +21,94 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    title: Our Services
+    subtitle: 'We offer the following Services:'
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/undraw_finance_0bdk.png
         image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-2.svg
+        image_align: left
+        content: This is content
+        actions:
+          - label: Learn More
+            url: Learn More
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        title: FINANCE
+        subtitle: Catering to Financing Needs
+        image_has_padding: false
+        content_align: left
+        image_position: top
+      - image: images/undraw_revenue_3osh.png
         image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
+        image_align: left
+        title: ACCOUNTS
+        subtitle: 'Accounting '
+        content: This is content
+        actions:
+          - label: Learn More
+            url: Learn More
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        image_position: top
+      - image: images/undraw_Calculator_0evy.png
         image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-4.svg
+        image_align: left
+        title: INVESTMENTS
+        subtitle: Investment Needs
+        content: This is content
+        actions:
+          - label: Learn More
+            url: lorem-ipsum
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        image_position: top
+      - image: images/undraw_Data_re_80ws.png
         image_alt: Sanity logo
+        image_align: left
+        image_position: top
+        title: TAXES
+        subtitle: Taxation needs
+        content: This is content.
+        actions:
+          - label: Learn More
+            url: lorem-ipsum
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+      - image_alt: DatoCMS logo
         image_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
+      - image_alt: Next.js logo
         image_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
+      - image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
+      - image_alt: Git logo
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: large
+    enable_cards: false
+    has_border: false
+    background_color: none
   - type: features_section
     title: Where do we really focus?
     subtitle: This is where our experties lies ...
