@@ -29,6 +29,16 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content: This is content
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
