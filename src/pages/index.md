@@ -85,7 +85,7 @@ sections:
         media_width: fifty
         subtitle: "\"An investment in knowledge pays the best interest.\" - Benjamin Franklin\_\U0001F495"
       - title: The Big Picture of Taxation
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Effective tax planning adds much to the Bottomline
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
