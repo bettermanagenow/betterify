@@ -39,7 +39,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        title: Fi
+        title: Finances
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
