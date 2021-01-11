@@ -87,9 +87,8 @@ sections:
       - title: The Big Picture of Taxation
         subtitle: "Effective tax planning adds much to the Bottomline\_\U0001F4B0"
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          All Taxes add to the Transaction Costs. We help you in **Better
+          Management** of your Taxes. This leads to increase in Profits.
         actions:
           - label: Learn More
             url: /style-guide
