@@ -51,7 +51,7 @@ sections:
         subtitle: 'Accounting '
         content: This is content
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: Learn More
             style: primary
             has_icon: true
