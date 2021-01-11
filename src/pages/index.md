@@ -40,7 +40,7 @@ sections:
             no_follow: false
             type: action
         title: FINANCE
-        subtitle: Catering to Financing Needs
+        subtitle: Banking and Finance
         image_has_padding: false
         content_align: left
         image_position: top
