@@ -13,7 +13,7 @@ sections:
     has_border: true
     background_image_repeat: no-repeat
     actions:
-      - label: lorem-ipsum
+      - label: C
         url: Contact
         style: primary
         has_icon: true
