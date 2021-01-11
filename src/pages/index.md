@@ -81,6 +81,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
+        image_position: top
       - image_alt: DatoCMS logo
         image_align: center
       - image_alt: Next.js logo
