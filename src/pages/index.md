@@ -46,7 +46,7 @@ sections:
         image_position: top
       - image: images/logo-2.svg
         image_alt: Netlify logo
-        image_align: center
+        image_align: left
         title: ACCOUNTS
         subtitle: 'Accounting '
         content: This is content
