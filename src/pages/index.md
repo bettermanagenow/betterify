@@ -64,6 +64,16 @@ sections:
         title: INVESTMENTS
         subtitle: Investment Needs
         content: This is content
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
