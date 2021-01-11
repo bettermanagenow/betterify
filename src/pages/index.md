@@ -68,7 +68,7 @@ sections:
         subtitle: Investment Needs
         content: This is content
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: secondary
             has_icon: true
