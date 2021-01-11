@@ -11,7 +11,6 @@ sections:
     video_embed_html: ''
     media_width: fourty
     has_border: true
-    background_image: images/bold/post-3.png
     background_image_repeat: no-repeat
   - type: features_section
     features:
