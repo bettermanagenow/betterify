@@ -14,7 +14,7 @@ sections:
     background_image_repeat: no-repeat
     actions:
       - label: Contact
-        url: Contact
+        url: /contact
         style: primary
         has_icon: true
         icon: arrow-right
