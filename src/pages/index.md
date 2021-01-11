@@ -31,7 +31,7 @@ sections:
         content: This is content
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: Learn More
             style: secondary
             has_icon: true
             icon: arrow-right
