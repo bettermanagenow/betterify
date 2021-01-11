@@ -65,7 +65,7 @@ sections:
         image_alt: Gatsby logo
         image_align: left
         title: INVESTMENTS
-        subtitle: Investment and Porfolio
+        subtitle: "Investment and Porfolio\_\U0001F38C"
         content: This is content
         actions:
           - label: Learn More
