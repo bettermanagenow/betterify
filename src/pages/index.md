@@ -86,9 +86,7 @@ sections:
         subtitle: "\"An investment in knowledge pays the best interest.\" - Benjamin Franklin\_\U0001F495"
       - title: The Big Picture of Taxation
         subtitle: "Effective tax planning adds much to the Bottomline\_\U0001F4B0"
-        content: >-
-          All Taxes add to the Transaction Costs. We help you in **Better
-          Management** of your Taxes. This leads to increase in Profits.
+        content: "All Taxes add to the Transaction Costs. We help you in **Better Management** of your Taxes. This leads to increase in Profits. Tax planning helps clients understand the tax effects of each financial decision \U0001F4B0"
         actions:
           - label: Learn More
             url: /style-guide
