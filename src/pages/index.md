@@ -52,7 +52,7 @@ sections:
         content: This is content
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: Learn More
             style: primary
             has_icon: true
             icon: arrow-right
