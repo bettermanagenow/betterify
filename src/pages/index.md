@@ -61,7 +61,7 @@ sections:
             no_follow: false
             type: action
         image_position: top
-      - image: images/undraw_informed_decision_p2lh.png
+      - image: images/undraw_Calculator_0evy.png
         image_alt: Gatsby logo
         image_align: left
         title: INVESTMENTS
