@@ -83,6 +83,7 @@ sections:
         image_align: left
         image_position: top
         title: TAXES
+        subtitle: Taxation needs
       - image_alt: DatoCMS logo
         image_align: center
       - image_alt: Next.js logo
