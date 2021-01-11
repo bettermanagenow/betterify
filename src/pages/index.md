@@ -47,6 +47,7 @@ sections:
         image_align: center
         title: ACCOUNTS
         subtitle: 'Accounting '
+        content: This is content
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
