@@ -86,7 +86,7 @@ sections:
         subtitle: Taxation needs
         content: This is content.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: primary
             has_icon: true
