@@ -22,7 +22,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Our Services
-    subtitle: Grid Section Example
+    subtitle: 'We offer the following Services:'
     align: center
     grid_items:
       - image: images/logo-1.svg
