@@ -7,6 +7,31 @@ sections:
     align: center
     background_color: secondary
     image: images/undraw_finance_0bdk.png
+    content: >-
+      We all at Better Manage Now very strongly believe that all business
+      productivity and performance is the result of a strong motivated team of
+      professionals with hands on industry expertise and experience.
+
+
+      We are a team of professionals with huge industry experience and
+      expertise. We are a team of committed individuals with only one focus in
+      mind and that is the better management, better performance, and better
+      productivity of the organization that we are working for. We strive on the
+      philosophy that your success is our success and your failure is our
+      failure. The very proof of our survival and sustenance is your better
+      productivity and better performance.
+
+
+      Our services are tailor made, customized and designed to suit individual
+      needs and requirements of any organization whether it is commercial or
+      non-commercial. And before prescribing and offering any solution, we would
+      like to first understand your business issues and needs from the very
+      ground up. We are of this strong opinion and conviction that every
+      organization and its problems are unique to itself and there can never be
+      a common solution to all problems and all organizations. There can never
+      be one-fit-for-all solution or strategy. Every problem is very unique to
+      that organization and understanding that problem from the very ground-up
+      is a good beginning for finding a better and sustainable solution.
   - type: features_section
     features:
       - title: Section Title One
