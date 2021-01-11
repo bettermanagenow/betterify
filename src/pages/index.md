@@ -83,7 +83,7 @@ sections:
         image_align: left
         image_position: top
         title: TAXES
-        subtitle: Taxation needs
+        subtitle: Direct and Indirect Taxes
         content: This is content.
         actions:
           - label: Learn More
