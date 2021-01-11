@@ -25,7 +25,7 @@ sections:
     subtitle: 'We offer the following Services:'
     align: center
     grid_items:
-      - image: images/invoice.png
+      - image: images/undraw_finance_0bdk.png
         image_alt: Contentful logo
         image_align: left
         content: This is content
