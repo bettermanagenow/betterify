@@ -27,7 +27,7 @@ sections:
     grid_items:
       - image: images/logo-1.svg
         image_alt: Contentful logo
-        image_align: center
+        image_align: left
         content: This is content
         actions:
           - label: lorem-ipsum
