@@ -60,6 +60,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image_position: top
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
