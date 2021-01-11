@@ -61,7 +61,7 @@ sections:
             no_follow: false
             type: action
         image_position: top
-      - image: images/logo-3.svg
+      - image: images/undraw_Analytics_re_dkf8.png
         image_alt: Gatsby logo
         image_align: left
         title: INVESTMENTS
