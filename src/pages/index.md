@@ -84,7 +84,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: "\"An investment in knowledge pays the best interest.\" - Benjamin Franklin\_\U0001F495"
-      - title: The Big Title For the Feature
+      - title: The Big Picture of Taxation
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
