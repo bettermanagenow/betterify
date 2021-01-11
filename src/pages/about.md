@@ -14,7 +14,7 @@ sections:
     background_image_repeat: no-repeat
     actions:
       - label: lorem-ipsum
-        url: Contac
+        url: Contact
         style: primary
         has_icon: true
         icon: arrow-right
