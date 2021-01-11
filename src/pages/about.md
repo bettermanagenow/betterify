@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: About Page Demo
+    subtitle: Know About Us
     align: center
     background_color: secondary
     image: images/undraw_finance_0bdk.png
