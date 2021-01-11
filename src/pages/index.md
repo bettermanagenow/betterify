@@ -40,7 +40,7 @@ sections:
             no_follow: false
             type: action
         title: Finance
-        subtitle: 'Catering to '
+        subtitle: Catering to Financing Needs
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
