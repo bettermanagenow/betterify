@@ -103,7 +103,9 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: “There is nothing called the best.”
+      - title: >-
+          “There is nothing called the best. The better exists before the best.
+          ”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/Avadhoot circle-cropped.png
         image_alt: Brandon Guidelines
