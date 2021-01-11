@@ -12,6 +12,16 @@ sections:
     media_width: fourty
     has_border: true
     background_image_repeat: no-repeat
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: features_section
     features:
       - title: Section Title One
