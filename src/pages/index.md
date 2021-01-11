@@ -84,7 +84,7 @@ sections:
         image_position: top
         title: TAXES
         subtitle: "Direct and Indirect Taxes \U0001F31F"
-        content: "All Taxes add to the Transaction Costs. We help you in Better Management of your Taxes. This leads to increase in Profits \U0001F600"
+        content: "All Taxes add to the Transaction Costs. We help you in **Better Management** of your Taxes. This leads to increase in Profits \U0001F600"
         actions:
           - label: Learn More
             url: lorem-ipsum
