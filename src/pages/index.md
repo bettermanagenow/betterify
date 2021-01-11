@@ -25,7 +25,7 @@ sections:
     subtitle: 'We offer the following Services:'
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/classic/post-2.png
         image_alt: Contentful logo
         image_align: left
         content: This is content
