@@ -172,7 +172,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: 'Vision, Mission and Values'
+    title: Three Guiding Principles
     subtitle: What drives our actions ...
     grid_items:
       - title: Management
