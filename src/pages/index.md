@@ -245,46 +245,40 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: Guiding Philosophy
+    subtitle: What is guiding us to do better?
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Management is doing things right; leadership is doing the right
+          things.
 
 
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+          **Peter Drucker**,  *Great Management Consultant and Philosopher*
+        image: images/Peter Drucker Round.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          An investment in knowledge pays the best interest. 
 
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+          **Benjamin Franklin**, *Founding Father of the United States*
+        image: images/Benjamin Franklin Round.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          If you can't explain it simply, you don't understand it well enough.
 
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+          **Albert Einstein**, *Theoretical Physicist and a Genius*
+        image: images/Albert Einstein.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          A journey of a thousand miles must begin with a single step.
 
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
+          **Lao Tzu**, *Taoist Philosopher and Master*
+        image: images/Lao Tzu Round.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
