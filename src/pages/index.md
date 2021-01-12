@@ -196,7 +196,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: How do we manage things?
-      - title: MISSION
+      - title: Strategy
         title_align: left
         content: |
           Our mission is to create an organization that 
