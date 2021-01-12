@@ -178,17 +178,9 @@ sections:
       - title: Management
         title_align: left
         content: >
-          There is nothing called THE BEST. It is always being better and
-          better. The only positive gap between **What Is** and **What Can Be**
-          is that of being better. The whole objective of **Better Management**
-          is to find this gap and bridge this gap. The only objective of Better
-          Management is bettering over the best. Our vision is to find this gap
-          delta, do the gap analysis, and bridge this gap and take the system to
-          the next level.
-
-
-          ##### **An organization for Better Management, Better Strategy, and
-          Better Leadership** ✨
+          ##### All management is about 'What to do?'. Its all about action,
+          execution and doing things right. Its about effectively using three
+          biggest resources of every enterprise - Men, Money, and Materials.
         content_align: left
         actions:
           - label: Learn More
