@@ -183,8 +183,8 @@ sections:
           be’*** is that of being better. The whole objective of **Better
           Management** is to find this gap and bridge this gap. The only
           objective of Better Leadership is bettering over the best. Our vision
-          is to find this gap delta and bridge this gap and take the product to
-          the next level.
+          is to find this gap delta, do the gap analysis, and bridge this gap
+          and take the system to the next level.
         content_align: left
         actions:
           - label: Learn More
