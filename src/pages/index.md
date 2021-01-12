@@ -175,7 +175,7 @@ sections:
     title: 'Vision, Mission and Values'
     subtitle: The actions should speak ...
     grid_items:
-      - title: Vision
+      - title: VISION
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
