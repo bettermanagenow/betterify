@@ -262,7 +262,7 @@ sections:
           An investment in knowledge pays the best interest. 
 
           **Benjamin Franklin**, *Founding Father of the United States*
-        image: images/Benjamin Franklin Round.png
+        image: images/graceful-planet.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
