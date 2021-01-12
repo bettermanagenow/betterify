@@ -173,7 +173,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: 'Vision, Mission and Values'
-    subtitle: The actions should speak ...
+    subtitle: What drives our actions ...
     grid_items:
       - title: Management
         title_align: left
