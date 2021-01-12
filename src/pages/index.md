@@ -246,7 +246,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Guiding Philosophy
-    subtitle: Grid Section Example
+    subtitle: What is guiding us to do better?
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
