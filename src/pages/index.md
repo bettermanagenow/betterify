@@ -253,7 +253,8 @@ sections:
           things.
 
 
-          **Peter Drucker**,  *Great Management Consultant and Philosopher*
+          [**Peter Drucker**](https://g.co/kgs/m2tmG1),  *Great Management
+          Consultant and Philosopher*
         image: images/incredible-hedgehog.png
         image_alt: Hanson Deck
         image_position: left
