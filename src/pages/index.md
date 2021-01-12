@@ -248,12 +248,12 @@ sections:
     title: Guiding Philosophy
     subtitle: What is guiding us to do better?
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Management is doing things right; leadership is doing the right
+          things.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Peter Drucker,** *Great Management Consultant and Philosopher*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
