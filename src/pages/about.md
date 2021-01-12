@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: "Know About Us\_\U0001F495"
+    subtitle: "Know About Us\_✨"
     align: left
     background_color: secondary
     image: images/undraw_finance_0bdk.png
