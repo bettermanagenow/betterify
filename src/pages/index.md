@@ -198,8 +198,10 @@ sections:
         subtitle: How do we manage things?
       - title: Strategy
         title_align: left
-        content: |
-          Our mission is to create an organization that 
+        content: >
+          ###### All strategy is about 'When to do?' and 'How to do?'. Strategy
+          is planning and designing processes that help achieve the overall
+          long-term aims and goals of an organization.
         content_align: left
         actions:
           - label: Learn More
