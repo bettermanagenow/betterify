@@ -195,7 +195,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: How do we manage things?
+        subtitle: How do we Manage things?
       - title: Strategy
         title_align: left
         content: >
