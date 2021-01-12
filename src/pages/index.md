@@ -217,7 +217,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: What is our Mission?
-      - title: Values
+      - title: VALUES
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
