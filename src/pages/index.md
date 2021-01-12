@@ -216,7 +216,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: How do we strategize things?
+        subtitle: How do we Strategize things?
       - title: Leadership
         title_align: left
         content: >
