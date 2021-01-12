@@ -253,7 +253,7 @@ sections:
           things.
 
 
-          **Peter Drucker,** *Great Management Consultant and Philosopher*
+          **Peter Drucker, ***Great Management Consultant and Philosopher*
         image: images/Peter Drucker Round.png
         image_alt: Hanson Deck
         image_position: left
