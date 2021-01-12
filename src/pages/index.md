@@ -227,7 +227,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: center
