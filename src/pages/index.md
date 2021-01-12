@@ -284,7 +284,7 @@ sections:
           from pessimists.
 
 
-          **Benjamin Graham**, *American Economist*
+          [**Benjamin Graham**](https://g.co/kgs/XMyvzi), *American Economist*
         image: images/Benjamin Graham Round.png
         image_alt: Gordon Norman
         image_position: left
