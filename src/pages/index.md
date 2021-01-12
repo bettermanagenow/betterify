@@ -266,12 +266,10 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          *If you can't explain it simply, you don't understand it well enough.*
 
-
-          **Eleanor Carr,** *CTO, Studio*
+          ***Albert Einstein**, Theoretical Physicist and a Genius*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
