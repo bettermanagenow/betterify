@@ -187,7 +187,7 @@ sections:
           the next level.
 
 
-          ### **An organization for Better Management, Better Strategy, and
+          ##### **An organization for Better Management, Better Strategy, and
           Better Leadership** ✨
         content_align: left
         actions:
