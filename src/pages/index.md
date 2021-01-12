@@ -185,6 +185,10 @@ sections:
           Management is bettering over the best. Our vision is to find this gap
           delta, do the gap analysis, and bridge this gap and take the system to
           the next level.
+
+
+          ### **An organization for Better Management, Better Strategy, and
+          Better Leadership** ✨
         content_align: left
         actions:
           - label: Learn More
