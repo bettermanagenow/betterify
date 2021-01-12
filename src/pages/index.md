@@ -195,7 +195,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: What is our Vision?
+        subtitle: How do we manage things?
       - title: MISSION
         title_align: left
         content: |
