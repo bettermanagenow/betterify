@@ -178,13 +178,13 @@ sections:
       - title: VISION
         title_align: left
         content: >
-          There is nothing called ‘the best’. It is always being better and
-          better. The only positive gap between ***‘what is’*** and ***‘what can
-          be’*** is that of being better. The whole objective of **Better
-          Management** is to find this gap and bridge this gap. The only
-          objective of Better Leadership is bettering over the best. Our vision
-          is to find this gap delta, do the gap analysis, and bridge this gap
-          and take the system to the next level.
+          There is nothing called THE BEST. It is always being better and
+          better. The only positive gap between **What Is** and **What Can Be**
+          is that of being better. The whole objective of **Better Management**
+          is to find this gap and bridge this gap. The only objective of Better
+          Management is bettering over the best. Our vision is to find this gap
+          delta, do the gap analysis, and bridge this gap and take the system to
+          the next level.
         content_align: left
         actions:
           - label: Learn More
