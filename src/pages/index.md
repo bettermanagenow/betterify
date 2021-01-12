@@ -217,7 +217,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: How do we strategize things?
-      - title: VALUES
+      - title: Leadership
         title_align: left
         content: >
           ###### Leadership is to find out the 'Who to do?' aspect in an
