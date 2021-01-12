@@ -258,12 +258,10 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          If you can't explain it simply, you don't understand it well enough.
 
-
-          **Miles Tone,** *CEO, Studio*
+          **Albert Einstein**, *Theoretical Physicist and Genius*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
