@@ -269,7 +269,7 @@ sections:
       - content: |
           *If you can't explain it simply, you don't understand it well enough.*
 
-          **Albert Einstein**, *Theoretical Physicist and a Genius* 
+          **Albert Einstein**, *Theoretical Physicist and a Genius*
         image: images/Albert Einstein.png
         image_alt: Eleanor Carr
         image_position: left
