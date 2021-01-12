@@ -216,6 +216,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        subtitle: What is our Mission?
       - title: Values
         title_align: left
         content: >-
