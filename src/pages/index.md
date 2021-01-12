@@ -214,7 +214,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: What is our Mission?
+        subtitle: How do we strategize things?
       - title: VALUES
         title_align: left
         content: >-
