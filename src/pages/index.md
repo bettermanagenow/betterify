@@ -274,10 +274,12 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: |
-          A journey of a thousand miles must begin with a single step.
+      - content: >
+          The intelligent investor is a realist who sells to optimists and buys
+          from pessimists.
 
-          **Lao Tzu**, *Taoist Philosopher and Master*
+
+          **Benjamin Graham**, *American Economist*
         image: images/Lao Tzu Round.png
         image_alt: Gordon Norman
         image_position: left
