@@ -165,7 +165,7 @@ sections:
           The only thing is being better and better. We can defy the Murphy's
           Law only when we take charge of things. ”
         subtitle: "We at BetterManageNow.Com add value by finding solutions\_\U0001F4A1"
-        image: images/Avadhoot circle-cropped.png
+        image: images/Avadhoot Round (5).png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
