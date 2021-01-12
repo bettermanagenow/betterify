@@ -172,7 +172,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: 'Vision, Mission'
+    title: 'Vision, Mission and Values'
     subtitle: The actions should speak ...
     grid_items:
       - title: Section Item 1
