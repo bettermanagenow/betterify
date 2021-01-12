@@ -237,6 +237,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        subtitle: What are our Values?
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
