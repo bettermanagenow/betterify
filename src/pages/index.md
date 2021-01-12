@@ -178,7 +178,7 @@ sections:
       - title: Management
         title_align: left
         content: >
-          ##### All management is about 'What to do?'. Its all about action,
+          ###### All management is about 'What to do?'. Its all about action,
           execution and doing things right. Its about effectively using three
           biggest resources of every enterprise - Men, Money, and Materials.
         content_align: left
