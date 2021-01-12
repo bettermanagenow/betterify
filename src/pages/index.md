@@ -269,10 +269,12 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: |
+      - content: >
           If you can't explain it simply, you don't understand it well enough.
 
-          **Albert Einstein**, *Theoretical Physicist and a Genius*
+
+          [**Albert Einstein**](https://g.co/kgs/vudyzf), *Theoretical Physicist
+          and a Genius*
         image: images/Albert Einstein Round.png
         image_alt: Eleanor Carr
         image_position: left
