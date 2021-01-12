@@ -280,7 +280,7 @@ sections:
 
 
           **Benjamin Graham**, *American Economist*
-        image: images/Lao Tzu Round.png
+        image: images/Benjamin Graham Round.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
