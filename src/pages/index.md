@@ -175,7 +175,7 @@ sections:
     title: 'Vision, Mission and Values'
     subtitle: The actions should speak ...
     grid_items:
-      - title: VISION
+      - title: Management
         title_align: left
         content: >
           There is nothing called THE BEST. It is always being better and
