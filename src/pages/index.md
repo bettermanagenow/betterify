@@ -259,9 +259,9 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          If you can't explain it simply, you don't understand it well enough.
+          An investment in knowledge pays the best interest. 
 
-          **Albert Einstein**, *Theoretical Physicist and Genius*
+          **Benjamin Franklin**, *Founding Father of the United States*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
