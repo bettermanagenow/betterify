@@ -278,7 +278,7 @@ sections:
           A journey of a thousand miles must begin with a single step.
 
           **Lao Tzu**, *Taoist Philosopher and Master*
-        image: images/gordon-norman.png
+        image: images/Lao Tzu Round.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
