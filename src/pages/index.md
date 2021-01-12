@@ -219,10 +219,10 @@ sections:
         subtitle: How do we strategize things?
       - title: VALUES
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          ###### Leadership is to find out the 'Who to do?' aspect in an
+          organization. Leadership means to lead, motivate and guide individuals
+          and teams in an organization to achieve the desired goals.
         content_align: left
         actions:
           - label: Learn More
