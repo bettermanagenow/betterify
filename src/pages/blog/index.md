@@ -36,8 +36,8 @@ sections:
     title: "Subscribe to our Blog Posts\_\U0001F60A"
     title_align: center
     content: >
-      Want to be an author and write Blogs for us? You are most welcome to
-      **JOIN US!!** 
+      Don't want to miss our content? Want to stay tuned and stay updated? Just
+      **SUBSCRIBE** to our Blog Posts!! ✨
     content_align: center
     form_position: bottom
     form_layout: inline
