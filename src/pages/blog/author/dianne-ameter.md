@@ -3,7 +3,7 @@ title: Avadhoot Dandekar
 sections:
   - type: hero_section
     title: Avadhoot Dandekar
-    subtitle: You can see my contributions here!!
+    subtitle: "You can see my contributions here!!\_\U0001F60A"
     align: center
     padding_top: medium
     padding_bottom: none
