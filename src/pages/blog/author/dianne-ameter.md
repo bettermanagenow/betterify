@@ -3,7 +3,7 @@ title: Avadhoot Dandekar
 sections:
   - type: hero_section
     title: Avadhoot Dandekar
-    subtitle: The optional subtitle
+    subtitle: 'You '
     align: center
     padding_top: medium
     padding_bottom: none
