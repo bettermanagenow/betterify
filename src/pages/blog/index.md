@@ -33,7 +33,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: "Subscribe to our Blog Posts\_\U0001F60A"
+    title: "Subscribe to the Newsletter \U0001F60A"
     title_align: center
     content: >
       Don't want to miss our content? Want to stay tuned and stay updated? Just
