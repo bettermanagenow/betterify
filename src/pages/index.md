@@ -298,7 +298,8 @@ sections:
     title: We are good in what we do. Join us in the Journey!!
     content: >
       We are catalysts of Better Management. We are change agents of Better
-      Leadership. Join us and be part of this journey.
+      Leadership. Join us and be part of this journey. **TEAM means Together
+      Everyone Achives More!!**
     actions:
       - label: Learn More
         url: /features
