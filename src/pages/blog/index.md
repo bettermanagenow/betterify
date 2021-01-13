@@ -8,6 +8,16 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
