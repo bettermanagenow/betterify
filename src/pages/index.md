@@ -296,10 +296,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: We are good in what we do. Join us in the Journey!!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      We are catalysts of Better Management. We are change agents of Better
+      Leadership. Join us and be part of this journey.
     actions:
       - label: Learn More
         url: /features
