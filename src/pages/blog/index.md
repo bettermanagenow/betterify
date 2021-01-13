@@ -18,6 +18,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    content: "Do you create content? Do you have a flair in writing blog post? Do you want auther our blog post? **PLEASE JOIN US!!** \U0001F60A\n"
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
