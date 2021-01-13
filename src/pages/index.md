@@ -340,7 +340,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: We share our ideas and experiences in our Blogs ...
     actions:
       - label: View All
         url: /blog
