@@ -37,7 +37,7 @@ sections:
     title_align: center
     content: >
       Don't want to miss our content? Want to stay tuned and stay updated? Just
-      **SUBSCRIBE** to our Blog Posts!! ✨
+      **SUBSCRIBE** to our Newsletter!! ✨
     content_align: center
     form_position: bottom
     form_layout: inline
