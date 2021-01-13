@@ -9,7 +9,7 @@ sections:
     padding_bottom: none
     background_color: none
     actions:
-      - label: lorem-ipsum
+      - label: Join Us
         url: lorem-ipsum
         style: link
         has_icon: false
