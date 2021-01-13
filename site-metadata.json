@@ -157,5 +157,6 @@
         ],
         "content": "&copy; BetterManageNow.Com. All rights reserved ✨ This Jamstack site is created with <a href=\"https://www.stackbit.com/\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Proudly deployed with <a href=\"https://www.netlify.com/\" target=\"_blank\" rel=\"noopener\">Netlify</a>"
     },
-    "title": "Better Manage Now"
+    "title": "Better Manage Now",
+    "favicon": "images/Betterify Stackbit Favicon.png"
 }
