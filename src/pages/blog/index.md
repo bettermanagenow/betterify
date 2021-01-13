@@ -35,7 +35,9 @@ sections:
   - type: form_section
     title: Want to be a Blogger?
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: >
+      Want to be an author and write Blogs for us? You are most welcome to
+      **JOIN US!!** 
     content_align: center
     form_position: bottom
     form_layout: inline
