@@ -33,7 +33,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Subscribe to our Blog Posts
+    title: "Subscribe to our Blog Posts\_\U0001F60A"
     title_align: center
     content: >
       Want to be an author and write Blogs for us? You are most welcome to
