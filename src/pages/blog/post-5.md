@@ -16,7 +16,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
-image: images/classic/post-5.png
+image: images/undraw_informed_decision_p2lh.png
 image_alt: Post 5 placeholder image
 image_position: right
 template: post
