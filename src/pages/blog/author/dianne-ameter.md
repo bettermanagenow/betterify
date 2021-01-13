@@ -2,7 +2,7 @@
 title: Avadhoot Dandekar
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: Avadhoot Dandekar
     subtitle: The optional subtitle
     align: center
     padding_top: medium
