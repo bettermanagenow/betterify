@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: Welcome to our Blog Posts!!
+    subtitle: "Welcome to our Blog Posts!!\_\U0001F60A"
     align: center
     padding_top: medium
     padding_bottom: none
