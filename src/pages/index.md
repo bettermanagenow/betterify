@@ -296,10 +296,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: We are good in what we do. Join us in the Journey!!
-    content: >
-      We are catalysts of Better Management. We are change agents of Better
-      Leadership. Join us and be part of this journey. **TEAM means Together
-      Everyone Achives More!!**
+    content: "We are catalysts of Better Management. We are change agents of Better Leadership. Join us and be part of this journey. **TEAM means Together Everyone Achives More!! \U0001F44B**\n"
     actions:
       - label: Learn More
         url: /features
