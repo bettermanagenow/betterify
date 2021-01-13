@@ -18,7 +18,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    content: "Do you create content? Do you have a flair in writing blog post? Do you want auther our blog post? **PLEASE JOIN US!!** \U0001F60A\n"
+    content: "Do you create interesting content? Do you have a flair for writing blog posts? Do you want to auther our blog posts? **PLEASE JOIN US!!** \U0001F60A\n"
     image: images/undraw_content_team_3epn.png
   - type: blog_feed_section
     blog_feed_cols: three
