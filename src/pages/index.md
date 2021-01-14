@@ -361,10 +361,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Be the part of the Better Management Story!!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Get in touch with us and join the story!!
     actions:
       - label: Button
         url: /pricing
